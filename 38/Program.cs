@@ -20,4 +20,6 @@
     System.Console.WriteLine($"Разница между {max} и {min} = {result}");
 }
 double[] array = { 3.22, 4.2, 1.15, 77.15, 65.2, };
+double[] array_2 = { 4.52, 567.2, 21.15, 17.15, 785.2, };
 Min_Max(array);
+Min_Max(array_2);
